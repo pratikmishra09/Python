@@ -11,3 +11,4 @@ ARISE/ – Daily exercises and small projects from tutorials or challenges.
 BASIC CODE/ – Cleaned-up versions of my early practice scripts.
 
 Day1/, Day2/, Day5/, Day6/, Day9/ , Day14 – My exercises organized by day, so I can keep track of what I learned each day.
+NOTE TODAY IS MISS BECASUE TODAY ID MAHASHIVRATRI I AM IN FASTING 
